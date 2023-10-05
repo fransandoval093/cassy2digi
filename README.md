@@ -15,6 +15,7 @@ pip install pyusb
 ```bash
 system_profiler SPUSBDataType
 ```
+
 ## Instructions
 
 1. Clone this repository:
