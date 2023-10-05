@@ -8,7 +8,7 @@ This repository provides instructions and a Python script for capturing data fro
 
 - Python installed on your system.
 - PyUSB library installed (you can install it using `pip`).
-```
+```bash
 # pip install pyusb
 - Identify the vendor and product IDs of your camcorder (use `system_profiler` on macOS).
 ```bash
